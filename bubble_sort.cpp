@@ -11,5 +11,6 @@ void input()
     while (true)
     {
         cout << "masukan banyaknya alemen pada array : "; // output ke layar
+        cin >> n; // input dari pengguna
     }
 }
