@@ -12,5 +12,6 @@ void input()
     {
         cout << "masukan banyaknya alemen pada array : "; // output ke layar
         cin >> n; // input dari pengguna
+        if (n <= 20) //jika n kurang dari atau sama dengan 20
     }
 }
